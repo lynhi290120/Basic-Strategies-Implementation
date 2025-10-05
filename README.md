@@ -1,4 +1,4 @@
-# Basic Strategies for Trading
+# Basic Strategies Implementation
 1. Moving Average Strategy
 2. Moving Average Cross-Over Strategy
 3. MACD Indicator Strategy
